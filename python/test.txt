@@ -1,0 +1,4 @@
+Id Name Price
+1 Laptop 10000
+2 Phone 20000
+3 Pen 10
