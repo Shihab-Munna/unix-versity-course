@@ -14,15 +14,16 @@ else:
     OpenTheFile.close()
     index = 0
     for line in lines:
-        if str(" " + productName + " ") in line:
+        current_product = line.split("  ")[2]
+        if current_product.strip() == productName.strip():
             lines[index] = line.split("Tk.", 1)[0] + "Tk. " + price
         index += 1
 
     length = len(lines)
 
     for i in range(1, length):
-        current_product_price = int(lines[i].split("Tk.", 1)[1])
-        for j in range(i, length):
+        for j in range(i + 1, length):
+            current_product_price = int(lines[i].split("Tk.", 1)[1])
             next_product_price = int(lines[j].split("Tk.", 1)[1])
             if current_product_price > next_product_price:
                 temp = lines[i]
@@ -33,8 +34,10 @@ else:
     targetFile.truncate()
     targetFile.write("ID      Name      Price\n")
     lengthOfLines = len(lines)
+    print("ID     Name        Price\n")
     for i in range(1, lengthOfLines):
         product = "0" + str(i) + "." + lines[i].split(".", 1)[1] + "\n"
+        print(product)
         targetFile.write(product)
 
     targetFile.close()

@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ae0367d-383c-4a75-ba1c-7b4d9e7199e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/assignment4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/continue1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/continue2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/dic_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/list/find_a_single_element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/list/find_a_single_element2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/list/find_a_single_element3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/list/find_a_single_element4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/list/find_a_single_element5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/list/insert()_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/list/remove_from_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/products.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/terminate_the_infinite_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/terminate_the_infinite_loop2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/terminate_the_infinite_loop3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/terminate_the_infinite_loop4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/assignment4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/assignment4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/products.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python/products.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637929281476</updated>
       <workItem from="1637929283132" duration="138000" />
-      <workItem from="1637929510128" duration="12887000" />
+      <workItem from="1637929510128" duration="14948000" />
     </task>
     <servers />
   </component>

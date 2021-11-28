@@ -1,5 +1,5 @@
-ID      Name      Price
-01.    Pencil      Tk. 10
-02.    Pen         Tk. 20
-03.    Ruler       Tk. 35
+ID     Name        Price
+01.    Pen                 Tk. 20
+02.    Pencil             Tk. 10
+03.    Ruler               Tk. 30
 04.    Color Pencil  Tk. 300
