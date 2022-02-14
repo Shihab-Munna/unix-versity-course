@@ -18,12 +18,9 @@
 #     printf "\n"
 #  }'
 
-
-
 read -r str #reading string value
 
 readarray -d " " -t strarr <<<"$str" #split a string based on the
-
 
 #Print each value of Array with the help of loop
 for ((n = 0; n < ${#strarr[*]}; n++)); do
